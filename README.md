@@ -72,6 +72,12 @@ Introduction to Mobile Robotics - UniFreiburg](http://ais.informatik.uni-freibur
 ### Code
 
 1.  [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)  
+2.  [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
+3.  [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
+4.  [DVO: Dense Visual Odometry](https://github.com/tum-vision/dvo_slam)
+5.  [SVO: Semi-Direct Monocular Visual Odometry](https://github.com/uzh-rpg/rpg_svo)
+6.  [G2O: General Graph Optimization](https://github.com/RainerKuemmerle/g2o)
+7.  [RGBD-SLAM](https://github.com/felixendres/rgbdslam_v2)
 
 
 ### Miscellaneous
