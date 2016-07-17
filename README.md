@@ -8,7 +8,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 
 * **[Books](#books)**  
 
-* **[Courses](#courses-lectures-and-workshops)**  
+* **[Courses, Lectures and Workshops](#courses-lectures-and-workshops)**  
 
 * **[Papers](#papers)**  
 
