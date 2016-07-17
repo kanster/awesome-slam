@@ -35,6 +35,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 
 
 ### Courses, Lectures and Workshops
+- [Geometry and Beyond - Representations, Physics, and Scene Understanding for Robotics](http://rss16-representations.mit.edu/) at Robotics: Science and Systems (2016)
 - [Robotics - UPenn](https://www.coursera.org/specializations/robotics) on Coursera by Vijay Kumar (2016)
 - [Robot Mapping - UniFreiburg](http://ais.informatik.uni-freiburg.de/teaching/ws15/mapping/) by  Gian Diego Tipaldi and Wolfram Burgard (2015-2016)
 - [Robot Mapping - UniBonn](http://www.ipb.uni-bonn.de/robot-mapping/) by Cyrill Stachniss (2016)
@@ -42,6 +43,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 - [Computer Vision II: Multiple View Geometry  - TUM](http://vision.in.tum.de/teaching/ss2016/mvg2016) by Daniel Cremers ( Spring 2016)
 - [Advanced Robotics - UCBerkeley](http://www.cs.berkeley.edu/~pabbeel/) by Pieter Abbeel (Fall 2015)
 - [Mapping, Localization, and Self-Driving Vehicles](https://www.youtube.com/watch?v=x5CZmlaMNCs) at CMU RI seminar by John Leonard (2015)
+- [The Problem of Mobile Sensors: Setting future goals and indicators of progress for SLAM](http://ylatif.github.io/movingsensors/) sponsored by Australian Centre for Robotics and Vision (2015)
 - [Robotics - UPenn](https://alliance.seas.upenn.edu/~meam620/wiki/index.php?n=Main.HomePage) by Philip Dames and Kostas Daniilidis (2014)
 - [Autonomous Navigation for Flying Robots](http://vision.in.tum.de/teaching/ss2014/autonavx) on EdX by Jurgen Sturm and Daniel Cremers (2014)
 - [Robust and Efficient Real-time Mapping for Autonomous Robots](https://www.youtube.com/watch?v=_W3Ua1Yg2fk) at CMU RI seminar by Michael Kaess (2014)
@@ -52,16 +54,41 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 
 
 ### Papers
+- [Lagrangian duality in 3D SLAM: Verification techniques and optimal solutions]()
+- [A Solution to the Simultaneous Localization and Map Building (SLAM) Problem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=938381&tag=1)
+- [Simulataneous Localization and Mapping with the Extended Kalman Filter](http://www.iri.upc.edu/people/jsola/JoanSola/objectes/curs_SLAM/SLAM2D/SLAM%20course.pdf)
 
-1.  [A Solution to the Simultaneous Localization and Map Building (SLAM) Problem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=938381&tag=1)
+### Researchers
 
-1.  [Simulataneous Localization and Mapping with the Extended Kalman Filter](http://www.iri.upc.edu/people/jsola/JoanSola/objectes/curs_SLAM/SLAM2D/SLAM%20course.pdf)
+#### United States
+- [John Leonard](https://www.csail.mit.edu/user/817)
+- [Sebastian Thrun](http://robots.stanford.edu/)
+- [Frank Dellaert](http://borg.cc.gatech.edu/)
+- [Dieter Fox](homes.cs.washington.edu/~fox/)
+- [Stergios I. Roumeliotis](http://www-users.cs.umn.edu/~stergios/)
+- [Vijay Kumar](http://www.kumarrobotics.org/)
+- [Ryan Eustice](http://robots.engin.umich.edu/~ryan/)
+- [Michael Kaess](http://frc.ri.cmu.edu/~kaess/)
+- [Guoquan (Paul) Huang](http://udel.edu/~ghuang/)
+- [Gabe Sibley](https://arpg.colorado.edu/people/)
+- [Luca Carlone](http://www.lucacarlone.com/)
+- [Andrea Censi](censi.mit.edu/)
 
-## Researchers
 
-1. [Gamini Dissanayake](http://www.uts.edu.au/staff/gamini.dissanayake)
-2. [Shoudong Huang](http://services.eng.uts.edu.au/~sdhuang/)
+#### Europe
+- [Paul Newman](http://mrg.robots.ox.ac.uk/)
+- [Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)
+- [Juan Nieto](http://www.nietojuan.com/)
+- [Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/)
+- [Jose Neira](webdiis.unizar.es/~neira/)
+- [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html)
 
+#### Australia
+- [Cesar Cadena](http://cs.adelaide.edu.au/~cesar/)
+- [Ian Reid](https://cs.adelaide.edu.au/~ianr/)
+- [Tim Bailey](http://www-personal.acfr.usyd.edu.au/tbailey/)
+- [Gamini Dissanayake](http://www.uts.edu.au/staff/gamini.dissanayake)
+- [Shoudong Huang](http://services.eng.uts.edu.au/~sdhuang/)
 
 
 ### Datasets
