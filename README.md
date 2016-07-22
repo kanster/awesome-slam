@@ -2,7 +2,8 @@
 
 Simultaneous Localization and Mapping, also known as SLAM, is the computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it.
 
-
+## News
+* For researchers, please read the recent review paper, [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830), from Cesar Cadena, Luca Carlone et al.
 
 ## Table of Contents
 
@@ -35,6 +36,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 
 
 ### Courses, Lectures and Workshops
+- [SLAM Tutorial@ICRA 2016](http://www.dis.uniroma1.it/~labrococo/tutorial_icra_2016/)
 - [Geometry and Beyond - Representations, Physics, and Scene Understanding for Robotics](http://rss16-representations.mit.edu/) at Robotics: Science and Systems (2016)
 - [Robotics - UPenn](https://www.coursera.org/specializations/robotics) on Coursera by Vijay Kumar (2016)
 - [Robot Mapping - UniFreiburg](http://ais.informatik.uni-freiburg.de/teaching/ws15/mapping/) by  Gian Diego Tipaldi and Wolfram Burgard (2015-2016)
@@ -54,7 +56,16 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 
 
 ### Papers
-- [Lagrangian duality in 3D SLAM: Verification techniques and optimal solutions]()
+- [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
+- [Direct Sparse Odometry](https://arxiv.org/abs/1607.02565) (2016)
+- [Modelling Uncertainty in Deep Learning for Camera Relocalization](https://arxiv.org/abs/1509.05909) (2016)
+- [Large-Scale Cooperative 3D Visual-Inertial Mapping in a Manhattan World](http://mars.cs.umn.edu/papers/CM_line.pdf) (2016)
+- [Towards Lifelong Feature-Based Mapping in Semi-Static Environments](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44821.pdf) (2016)
+- [Tree-Connectivity: Evaluating the Graphical Structure of SLAM](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7487264) (2016)
+- [Visual-Inertial Direct SLAM](webdiis.unizar.es/~jcivera/papers/concha_etal_icra16.pdf) (2016)
+- [A Unified Resource-Constrained Framework for Graph SLAM](people.csail.mit.edu/lpaull/publications/Paull_ICRA_2016.pdf) (2016)
+- [Multi-Level Mapping: Real-time Dense Monocular SLAM](https://groups.csail.mit.edu/rrg/papers/greene_icra16.pdf) (2016)
+- [Lagrangian duality in 3D SLAM: Verification techniques and optimal solutions](http://arxiv.org/abs/1506.00746) (2015)
 - [A Solution to the Simultaneous Localization and Map Building (SLAM) Problem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=938381&tag=1)
 - [Simulataneous Localization and Mapping with the Extended Kalman Filter](http://www.iri.upc.edu/people/jsola/JoanSola/objectes/curs_SLAM/SLAM2D/SLAM%20course.pdf)
 
